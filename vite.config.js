@@ -5,7 +5,7 @@ import * as path from 'path';
 
 
 export default defineConfig({
-    
+
     // En todos los proyectos debe ir la linea de codigo de resolve
     resolve: {
         alias: {
